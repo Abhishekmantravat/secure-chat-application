@@ -16,9 +16,12 @@ Welcome to our Secure Chat Application repository! This open-source project aims
 
 ✅ One-to-One Secure Chat: Enjoy private and encrypted conversations with other users for confidential communication.
 ![Screenshot 2023-07-29 102553](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/1fc5f9a5-0d82-405f-96cf-15d75c14fddb)
+![Screenshot 2023-07-22 091703](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/6052546f-be09-4e69-9cde-4c5470bc7055)
+
 
 ✅ Profile Privacy Control: Users can choose who can view their profile picture and status, ensuring privacy and security.
 ![Screenshot 2023-07-29 102519](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/758ce207-eebe-4682-817f-e1b4757ed2d2)
+![Screenshot 2023-07-29 105306](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/c2231791-251f-480c-b7fd-9cb19a6fdeca)
 
 ✅ Call Functionality: Make voice and video calls to stay connected with friends and loved ones.
 ![Screenshot 2023-07-29 102616](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/e8896569-db25-427b-b57d-befc345f1550) ![Screenshot 2023-07-29 102652](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/24daa5c6-9992-420b-876a-fb4fecf297fb)
