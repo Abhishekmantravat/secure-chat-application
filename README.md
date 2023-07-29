@@ -8,11 +8,14 @@ Welcome to our Secure Chat Application repository! This open-source project aims
 ![Screenshot 2023-07-29 101328](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/664b6e98-58dc-4f52-b56b-763afe597951) ![Screenshot 2023-07-29 101433](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/ef8463b8-dfbe-49b4-aa5e-6f7b5d7ff113)
 ![Screenshot 2023-07-29 102323](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/735a2068-5549-43a3-ad02-e134c18c0964)
 
+
 ✅ Update Profile: Users can manage their profiles by adding or modifying their details and profile picture.
 ![Screenshot 2023-07-29 102444](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/cf85d8a4-9b09-4f68-86f6-200936c8cc4b) ![Screenshot 2023-07-29 102453](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/329cf21e-0031-413d-b2b6-ae8df152735e)
 
+
 ✅ Create Group Chats: Engage with multiple users at once by creating group chats for various interests or purposes.
 ![Screenshot 2023-07-29 102603](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/a5b8e757-fe63-4eb2-8f49-7d79feeabe72)
+
 
 ✅ One-to-One Secure Chat: Enjoy private and encrypted conversations with other users for confidential communication.
 ![Screenshot 2023-07-29 102553](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/1fc5f9a5-0d82-405f-96cf-15d75c14fddb)
@@ -23,8 +26,10 @@ Welcome to our Secure Chat Application repository! This open-source project aims
 ![Screenshot 2023-07-29 102519](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/758ce207-eebe-4682-817f-e1b4757ed2d2)
 ![Screenshot 2023-07-29 105306](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/c2231791-251f-480c-b7fd-9cb19a6fdeca)
 
+
 ✅ Call Functionality: Make voice and video calls to stay connected with friends and loved ones.
 ![Screenshot 2023-07-29 102616](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/e8896569-db25-427b-b57d-befc345f1550) ![Screenshot 2023-07-29 102652](https://github.com/Abhishekmantravat/secure-chat-application/assets/124698979/24daa5c6-9992-420b-876a-fb4fecf297fb)
+
 
 ✅ Real-time Updates: Experience seamless and instant updates in chats and user statuses with the power of Firebase.
 
